@@ -54,7 +54,7 @@ const Footer = () => {
             textTransform={'uppercase'}
             textAlign={['center', 'center']}
           >
-            PAT SHALA
+            PATSHALA
           </Heading>
           <Text px={['0', '1']} textAlign={'center'}>
             All rights received Bharat Bardiya &copy; 2023

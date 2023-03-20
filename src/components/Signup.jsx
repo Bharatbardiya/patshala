@@ -21,7 +21,7 @@ const Signup = () => {
           m="auto"
           my="16"
         >
-          <Heading textAlign={'center'}>Welcome to PAT SHALA</Heading>
+          <Heading textAlign={'center'}>Welcome to PATSHALA</Heading>
           <Avatar alignSelf={'center'} boxSize={'32'}></Avatar>
           <Input
             placeholder="Name"

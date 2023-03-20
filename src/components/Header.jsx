@@ -39,7 +39,7 @@ const Header = () => {
         <DrawerOverlay />
         <DrawerContent>
           <DrawerCloseButton />
-          <DrawerHeader>PAT SHALA</DrawerHeader>
+          <DrawerHeader>PATSHALA</DrawerHeader>
           <DrawerBody>
             <VStack alignItems={'flex-start'}>
               <Button
